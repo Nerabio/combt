@@ -60,16 +60,29 @@ namespace Combats
 
         public string Call(ILocation location, ActionsEnum actionName)
         {
-            if (this.Person.Cookies == null) this.Auth();
+            this.Person.Log.Info($"LocationName: [{(NameLocationEnum)location.GetName()}] ActionName: [{(ActionsEnum)actionName}]");
 
+            if (this.Person.Cookies == null) {
+                this.Person.Log.Info("Not authorization. Auth()....");
+                this.Auth();
+            }
+
+
+            
             var request = new RequestDto() {
                 cookies = this.Person.Cookies,
                 data = location.GetData(actionName)
             };
 
             var requestJson = JsonConvert.SerializeObject(request);
+
+            //this.Person.Log.Info($"RequestJson -> : {requestJson}");
+
             this.wc.Headers.Add(HttpRequestHeader.ContentType, "application/json");
             var resultJson = wc.UploadString(new Uri(location.GetUrl()), "POST", requestJson);
+
+            //this.Person.Log.Info($"ResponseJson <- : {resultJson}");
+
             return resultJson;
         }
 

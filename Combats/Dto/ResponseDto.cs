@@ -18,5 +18,7 @@ namespace Combats.Dto
         public Data data { get; set; }
         public string base_URL { get; set; }
         public string redirect_URL { get; set; }
+        public string id { get; set; }
+
     }
 }

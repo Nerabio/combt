@@ -47,5 +47,11 @@ namespace Combats.Dto
         public string sex { get; set; }
         public string HP { get; set; }
         public string maxHP { get; set; }
+
+
+
+
+        public string sVirtID { get; set; }
+        public int? enemy { get; set; }
     }
 }

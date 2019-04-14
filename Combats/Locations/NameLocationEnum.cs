@@ -11,6 +11,7 @@ namespace Combats.Locations
         Auth = 0,
         Zayavka = 1,
         Enter = 2,
-        Main = 3
+        Main = 3,
+        Battle = 4
     }
 }

@@ -25,11 +25,18 @@ namespace Combats.Dto
         public string version { get; set; }
         public string my_id { get; set; }
 
-        public string in_battle { get; set; }
+
+        public int? id { get; set; }
+        public int? in_battle { get; set; }
         public string maxmana { get; set; }
         public string HP { get; set; }
         public string maxHP { get; set; }
 
+
         public User user { get; set; }
+
+        public string stop { get; set; }
+        public string error { get; set; }
+        
     }
 }

@@ -18,6 +18,7 @@ namespace Combats
 
             locationList.Add(new ZayavkaLocation(Person));
             locationList.Add(new MainLocation(Person));
+            locationList.Add(new BattleLocation(Person));
 
             this.Locations = locationList;
         }

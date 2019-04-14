@@ -12,6 +12,8 @@ namespace Combats.Locations
     {
         string GetUrl();
 
+        void SetUrl(string url);
+
         NameLocationEnum GetName();
 
         object GetData(ActionsEnum actionName);

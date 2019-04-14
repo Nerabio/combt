@@ -19,3 +19,6 @@ D:\projects\Combats\Combats_2\Combats\obj\Debug\Combats.csprojResolveAssemblyRef
 D:\projects\Combats\Combats_2\Combats\obj\Debug\Combats.Form1.resources
 D:\projects\Combats\Combats_2\Combats\obj\Debug\Combats.Properties.Resources.resources
 D:\projects\Combats\Combats_2\Combats\obj\Debug\Combats.csproj.GenerateResource.Cache
+D:\projects\Combats\Combats_2\Combats\bin\Debug\NLog.config
+D:\projects\Combats\Combats_2\Combats\bin\Debug\NLog.dll
+D:\projects\Combats\Combats_2\Combats\bin\Debug\NLog.xml

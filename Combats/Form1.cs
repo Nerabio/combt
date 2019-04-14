@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NLog;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +15,17 @@ namespace Combats
 {
     public partial class Form1 : Form
     {
+        public Bot bot;
+
+        public Bot GetBot()
+        {
+            if (this.bot == null)
+            {
+                this.bot = new Bot();
+                this.bot.Init();
+            }
+           return this.bot;
+        }
 
         public Form1()
         {
@@ -111,29 +123,31 @@ namespace Combats
 
         private void button3_Click(object sender, EventArgs e)
         {
-            var bot = new Bot();
-            bot.Init();
-            //bot.GotoZayavka();
-            bot.GetStatus();
+
+            
+
+
+            if (this.GetBot().InBattle) {
+                this.GetBot().Kick();
+                timer1.Interval = 1000;
+            }
+            else{
+                this.GetBot().GotoZayavka();
+                timer1.Interval = 6000;
+            }
+
+
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+
             
-            // логин
-            webBrowser1.Document.GetElementById("login").SetAttribute("value", "m_login");
+            string name = "http://dreamscity.combats.com/battle2.pl?json_data=HASH(0x10f80070)&version=3.6.8&isJson=1&0.993503447703553";
+            var dd = new Uri(name);
 
-            // пароль  
-            webBrowser1.Document.GetElementById("psw").InnerText = "m_password";
-
-            // войти
-            foreach (HtmlElement he in webBrowser1.Document.GetElementsByTagName("input"))
-                if (he.GetAttribute("value").Equals(" Войти "))
-                {
-                    he.InvokeMember("click");
-                    break;
-                }
+            var result = dd.Scheme + "://" + dd.Host + dd.AbsolutePath;
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -150,6 +164,19 @@ namespace Combats
         {
             int i = int.Parse(textBox1.Text);
             richTextBox1.Text = webBrowser1.Document.Window.Frames[i].Document.Body.OuterHtml;
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            if (!timer1.Enabled)
+            {
+                timer1.Enabled = true;
+                button8.Text = "Off";
+            }
+            else {
+                timer1.Enabled = false;
+                button8.Text = "On";
+            }
         }
     }
 }

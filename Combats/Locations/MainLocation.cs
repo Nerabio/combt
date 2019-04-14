@@ -27,6 +27,11 @@ namespace Combats.Locations
             return this.url;
         }
 
+        public void SetUrl(string url)
+        {
+            this.url = url;
+        }
+
         public NameLocationEnum GetName()
         {
             return this.name;
@@ -54,6 +59,7 @@ namespace Combats.Locations
             this.Person.maxmana = responseJson.data.user.maxmana;
             this.Person.HP = responseJson.data.user.HP;
             this.Person.maxHP = responseJson.data.user.maxHP;
+            
         }
 
     }
