@@ -1,0 +1,952 @@
+2019-05-02 18:35:12.3004 INFO Init bot
+2019-05-02 18:35:12.3584 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:12.3694 INFO Not authorization. Auth()....
+2019-05-02 18:35:13.2924 INFO Health not Full 72 from 115
+2019-05-02 18:35:19.2983 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:19.4453 INFO Health not Full 75 from 115
+2019-05-02 18:35:25.2982 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:25.4262 INFO Health not Full 77 from 115
+2019-05-02 18:35:31.2992 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:31.4112 INFO Health not Full 79 from 115
+2019-05-02 18:35:37.2991 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:37.4121 INFO Health not Full 82 from 115
+2019-05-02 18:35:43.2990 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:43.4190 INFO Health not Full 84 from 115
+2019-05-02 18:35:49.2999 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:49.4419 INFO Health not Full 86 from 115
+2019-05-02 18:35:55.2998 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:35:55.4258 INFO Health not Full 88 from 115
+2019-05-02 18:36:01.2997 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:01.4247 INFO Health not Full 91 from 115
+2019-05-02 18:36:07.2987 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:07.4167 INFO Health not Full 93 from 115
+2019-05-02 18:36:13.2996 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:13.4116 INFO Health not Full 95 from 115
+2019-05-02 18:36:19.2995 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:19.4135 INFO Health not Full 98 from 115
+2019-05-02 18:36:25.2994 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:25.4424 INFO Health not Full 100 from 115
+2019-05-02 18:36:31.2983 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:31.4283 INFO Health not Full 102 from 115
+2019-05-02 18:36:37.2982 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:37.4272 INFO Health not Full 105 from 115
+2019-05-02 18:36:43.2981 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:43.4251 INFO Health not Full 107 from 115
+2019-05-02 18:36:49.3061 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:49.4341 INFO Health not Full 109 from 115
+2019-05-02 18:36:55.2990 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:36:55.4170 INFO Health not Full 111 from 115
+2019-05-02 18:37:01.2989 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:01.4179 INFO Health not Full 114 from 115
+2019-05-02 18:37:07.3008 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:07.4168 INFO Get zayavka...
+2019-05-02 18:37:07.4238 INFO LocationName: [Zayavka] ActionName: [AddZayavka]
+2019-05-02 18:37:07.5428 INFO Заявка на бой подана
+2019-05-02 18:37:13.2997 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:13.4127 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:19.3036 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:19.4306 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:25.3106 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:25.4255 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:31.3105 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:31.4575 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:37.2994 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:37.4334 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:43.2993 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:43.4533 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:49.3002 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:49.4282 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:37:55.3041 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:37:55.4391 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:01.3000 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:01.4290 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:07.3000 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:07.4189 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:13.2999 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:13.4259 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:19.3048 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:19.4208 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:25.2987 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:25.4287 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:31.2986 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:31.4226 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:37.3035 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:37.4375 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:43.3055 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:43.4194 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:49.2984 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:49.4114 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:38:55.2993 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:38:55.4193 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:01.3032 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:01.4162 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:07.3071 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:07.4241 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:13.3090 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:13.4230 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:19.2989 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:19.4179 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:25.3049 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:25.4228 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:31.2998 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:31.4168 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:37.2997 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:37.4157 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:43.3016 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:43.4336 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:49.2985 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:49.4145 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:39:55.3034 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:39:55.4294 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:01.3004 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:01.4123 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:07.2993 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:07.4292 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:13.3032 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:13.4462 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:19.2991 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:19.4151 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:25.2990 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:25.4130 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:31.2989 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:31.4219 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:37.2998 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:37.4148 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:43.3018 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:43.4167 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:49.3017 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:49.4307 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:40:55.3026 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:40:55.4346 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:01.2985 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:01.4155 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:07.2984 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:07.4194 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:13.2983 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:13.4113 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:19.2982 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:19.4132 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:25.2991 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:25.4141 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:31.2991 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:31.4131 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:37.2990 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:37.4140 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:43.2999 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:43.4319 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:49.2998 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:49.4148 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:41:55.3097 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:41:55.4207 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:42:01.2986 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:42:01.4126 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:42:07.3006 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:42:07.4316 INFO Zayavka already getting. Wait battle...
+2019-05-02 18:42:13.2985 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:42:13.4105 INFO Battle start redirect_URL -> http://dreamscity.combats.com/battle1.pl?0.0389727535858135
+2019-05-02 18:42:13.4105 INFO Battle url is -> http://dreamscity.combats.com/battle1.pl
+2019-05-02 18:42:19.3004 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:19.5624 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:19.5744 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:19.5824 INFO Don't select any method for battle
+2019-05-02 18:42:19.5824 INFO STEP->  attack0: 4 attack1: 2 defend0: 5 defend1: 3
+2019-05-02 18:42:20.7244 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:20.8933 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:20.8933 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:20.9143 INFO Don't select any method for battle
+2019-05-02 18:42:20.9143 INFO STEP->  attack0: 3 attack1: 5 defend0: 1 defend1: 4
+2019-05-02 18:42:21.7203 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:21.9473 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:21.9553 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:21.9553 INFO Don't select any method for battle
+2019-05-02 18:42:21.9703 INFO STEP->  attack0: 4 attack1: 3 defend0: 5 defend1: 2
+2019-05-02 18:42:22.7203 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:22.8953 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:22.8953 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:22.9113 INFO Don't select any method for battle
+2019-05-02 18:42:22.9113 INFO STEP->  attack0: 3 attack1: 5 defend0: 1 defend1: 4
+2019-05-02 18:42:23.7253 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:23.8993 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:23.8993 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:23.9143 INFO Don't select any method for battle
+2019-05-02 18:42:23.9143 INFO STEP->  attack0: 3 attack1: 2 defend0: 1 defend1: 5
+2019-05-02 18:42:24.7253 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:24.9093 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:24.9093 INFO Allow method in batlle: novice_def, hit_strong, novice_hp
+2019-05-02 18:42:24.9233 INFO Selected method: hit_strong
+2019-05-02 18:42:24.9233 INFO STEP->  attack0: 5 attack1: 2 defend0: 3 defend1: 4
+2019-05-02 18:42:25.7243 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:25.8923 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:25.8923 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 18:42:25.8923 INFO Don't select any method for battle
+2019-05-02 18:42:25.9153 INFO STEP->  attack0: 3 attack1: 2 defend0: 1 defend1: 5
+2019-05-02 18:42:26.7253 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:26.8943 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 18:42:26.8943 INFO Allow method in batlle: novice_def, novice_hp, hp_defence, hp_enrage, hp_regen
+2019-05-02 18:42:26.9083 INFO Don't select any method for battle
+2019-05-02 18:42:26.9083 INFO STEP->  attack0: 3 attack1: 5 defend0: 4 defend1: 2
+2019-05-02 18:42:27.7293 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:28.7202 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:29.7212 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:30.7302 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:31.7202 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:32.7212 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:33.7202 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:34.7302 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:35.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:36.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:37.7291 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:38.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:39.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:40.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:41.7201 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:42.7210 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:43.7200 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:44.7200 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:45.7200 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:46.7210 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:47.7310 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:48.7210 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:49.7209 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:50.7219 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:51.7209 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:52.7309 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:53.7209 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:54.7269 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:55.7219 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:56.7218 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:57.7208 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:58.7218 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:42:59.7208 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:00.7208 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:01.7318 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:02.7208 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:03.7217 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:04.7217 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:05.7327 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:06.7217 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:07.7327 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:08.7207 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:09.7217 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:10.7317 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:11.7216 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:12.7226 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:13.7316 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:14.7326 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:15.7216 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:16.7326 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 18:43:16.8646 INFO Battle is END
+2019-05-02 18:43:17.7215 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:17.8346 INFO Health not Full 0 from 115
+2019-05-02 18:43:23.8295 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:23.9464 INFO Health not Full 3 from 115
+2019-05-02 18:43:29.8294 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:29.9594 INFO Health not Full 5 from 115
+2019-05-02 18:43:35.8463 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:35.9673 INFO Health not Full 7 from 115
+2019-05-02 18:43:41.8452 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:41.9592 INFO Health not Full 9 from 115
+2019-05-02 18:43:47.8451 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:47.9651 INFO Health not Full 12 from 115
+2019-05-02 18:43:53.8450 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:53.9630 INFO Health not Full 14 from 115
+2019-05-02 18:43:59.8469 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:43:59.9629 INFO Health not Full 16 from 115
+2019-05-02 18:44:05.8509 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:05.9639 INFO Health not Full 19 from 115
+2019-05-02 18:44:11.8518 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:11.9638 INFO Health not Full 21 from 115
+2019-05-02 18:44:17.8467 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:17.9597 INFO Health not Full 23 from 115
+2019-05-02 18:44:23.8466 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:23.9656 INFO Health not Full 26 from 115
+2019-05-02 18:44:29.8505 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:29.9685 INFO Health not Full 28 from 115
+2019-05-02 18:44:35.8534 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:35.9694 INFO Health not Full 30 from 115
+2019-05-02 18:44:41.8603 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:42.1393 INFO Health not Full 32 from 115
+2019-05-02 18:44:47.8462 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:47.9662 INFO Health not Full 35 from 115
+2019-05-02 18:44:53.8452 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:53.9582 INFO Health not Full 37 from 115
+2019-05-02 18:44:59.8541 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:44:59.9701 INFO Health not Full 39 from 115
+2019-05-02 18:45:05.8500 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:05.9640 INFO Health not Full 42 from 115
+2019-05-02 18:45:11.8459 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:11.9609 INFO Health not Full 44 from 115
+2019-05-02 18:45:17.8468 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:17.9688 INFO Health not Full 46 from 115
+2019-05-02 18:45:23.8468 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:23.9608 INFO Health not Full 49 from 115
+2019-05-02 18:45:29.8457 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:29.9577 INFO Health not Full 51 from 115
+2019-05-02 18:45:35.8456 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:35.9676 INFO Health not Full 53 from 115
+2019-05-02 18:45:41.8455 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:41.9645 INFO Health not Full 55 from 115
+2019-05-02 18:45:47.8474 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:47.9614 INFO Health not Full 58 from 115
+2019-05-02 18:45:53.8453 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:53.9623 INFO Health not Full 60 from 115
+2019-05-02 18:45:59.8472 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:45:59.9662 INFO Health not Full 62 from 115
+2019-05-02 18:46:05.8451 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 18:46:05.9621 INFO Health not Full 65 from 115
+2019-05-02 19:03:04.5826 INFO Init bot
+2019-05-02 19:03:04.6306 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:04.6306 INFO Not authorization. Auth()....
+2019-05-02 19:03:05.5486 INFO Get zayavka...
+2019-05-02 19:03:05.5486 INFO LocationName: [Zayavka] ActionName: [AddZayavka]
+2019-05-02 19:03:05.6956 INFO Заявка на бой подана
+2019-05-02 19:03:11.6945 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:11.8105 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:17.6944 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:17.8204 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:23.6943 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:23.8413 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:29.6953 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:29.8543 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:35.6902 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:35.8432 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:41.6951 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:41.8221 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:47.6950 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:47.8170 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:53.6909 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:53.8089 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:03:59.6928 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:03:59.8138 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:05.6917 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:05.8137 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:11.6926 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:11.8146 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:17.6926 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:17.8156 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:23.6915 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:23.8095 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:29.6914 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:29.8274 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:35.6933 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:35.8143 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:41.6933 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:41.8083 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:47.6932 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:47.8132 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:53.6931 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:53.8091 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:04:59.6930 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:04:59.8080 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:05.6899 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:05.8069 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:11.6888 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:11.8098 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:17.7037 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:17.8197 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:23.6937 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:23.8097 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:29.6936 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:29.8136 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:35.7025 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:35.8275 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:41.7014 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:41.8274 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:47.6913 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:47.8123 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:53.7022 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:53.8232 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:05:59.6921 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:05:59.8151 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:05.6921 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:05.8411 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:11.6920 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:11.8150 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:17.6919 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:17.8119 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:23.6918 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:23.8128 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:29.6907 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:29.8167 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:35.7006 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:35.8216 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:41.6906 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:41.8125 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:47.6895 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:47.8065 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:53.6904 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:53.8274 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:06:59.6893 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:06:59.8133 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:05.6892 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:05.8112 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:11.7011 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:11.8261 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:17.6900 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:17.8100 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:23.6960 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:23.8109 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:29.6889 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:29.8449 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:35.6928 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:35.8288 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:41.6897 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:41.8397 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:47.6896 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:47.8456 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:53.6895 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:53.8355 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:07:59.6975 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:07:59.8154 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:08:05.6894 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:05.8104 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:08:11.6893 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:11.8153 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:08:17.6942 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:17.8302 INFO Battle start redirect_URL -> http://dreamscity.combats.com/battle.pl?0.465837781763437
+2019-05-02 19:08:17.8302 INFO Battle url is -> http://dreamscity.combats.com/battle.pl
+2019-05-02 19:08:23.6911 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:23.9181 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:23.9321 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:23.9421 INFO Don't select any method for battle
+2019-05-02 19:08:23.9421 INFO STEP->  attack0: 1 attack1: 5 defend0: 2 defend1: 4
+2019-05-02 19:08:25.0811 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:25.2941 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:25.3031 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:25.3211 INFO Don't select any method for battle
+2019-05-02 19:08:25.3361 INFO STEP->  attack0: 4 attack1: 3 defend0: 5 defend1: 1
+2019-05-02 19:08:26.0941 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:26.2801 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:26.2881 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:26.2881 INFO Don't select any method for battle
+2019-05-02 19:08:26.3051 INFO STEP->  attack0: 4 attack1: 5 defend0: 2 defend1: 1
+2019-05-02 19:08:27.0951 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:27.2670 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:27.2670 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:27.2850 INFO Don't select any method for battle
+2019-05-02 19:08:27.2850 INFO STEP->  attack0: 1 attack1: 4 defend0: 3 defend1: 2
+2019-05-02 19:08:28.0980 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:28.2850 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:28.2850 INFO Allow method in batlle: novice_def, hit_strong, novice_hp
+2019-05-02 19:08:28.3020 INFO Selected method: hit_strong
+2019-05-02 19:08:28.3020 INFO STEP->  attack0: 4 attack1: 5 defend0: 2 defend1: 1
+2019-05-02 19:08:29.1020 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:29.2760 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:29.2840 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:29.2840 INFO Don't select any method for battle
+2019-05-02 19:08:29.3030 INFO STEP->  attack0: 5 attack1: 2 defend0: 1 defend1: 4
+2019-05-02 19:08:30.0960 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:30.2660 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:30.2780 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:08:30.2890 INFO Don't select any method for battle
+2019-05-02 19:08:30.3060 INFO STEP->  attack0: 3 attack1: 1 defend0: 5 defend1: 4
+2019-05-02 19:08:31.0960 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:31.2740 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:31.2740 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield
+2019-05-02 19:08:31.2890 INFO Don't select any method for battle
+2019-05-02 19:08:31.2890 INFO STEP->  attack0: 5 attack1: 4 defend0: 2 defend1: 3
+2019-05-02 19:08:32.1020 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:32.2810 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:32.2930 INFO Allow method in batlle: novice_def, hit_strong, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:32.3030 INFO Selected method: hit_strong
+2019-05-02 19:08:32.3030 INFO STEP->  attack0: 3 attack1: 2 defend0: 1 defend1: 5
+2019-05-02 19:08:33.1030 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:33.2780 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:33.2860 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:33.2860 INFO Don't select any method for battle
+2019-05-02 19:08:33.3020 INFO STEP->  attack0: 5 attack1: 4 defend0: 2 defend1: 1
+2019-05-02 19:08:34.0960 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:34.2650 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:34.2770 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:34.2880 INFO Don't select any method for battle
+2019-05-02 19:08:34.2990 INFO STEP->  attack0: 3 attack1: 4 defend0: 5 defend1: 2
+2019-05-02 19:08:35.1020 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:35.2809 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:35.2889 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:35.2999 INFO Don't select any method for battle
+2019-05-02 19:08:35.2999 INFO STEP->  attack0: 3 attack1: 4 defend0: 2 defend1: 1
+2019-05-02 19:08:36.1109 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:36.2819 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:36.2899 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:36.3009 INFO Don't select any method for battle
+2019-05-02 19:08:36.3009 INFO STEP->  attack0: 2 attack1: 1 defend0: 5 defend1: 4
+2019-05-02 19:08:37.1159 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:37.2979 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:37.3059 INFO Allow method in batlle: novice_def, hit_strong, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:37.3159 INFO Selected method: hit_strong
+2019-05-02 19:08:37.3159 INFO STEP->  attack0: 3 attack1: 5 defend0: 4 defend1: 1
+2019-05-02 19:08:38.1189 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:38.2939 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:38.3029 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:38.3169 INFO Don't select any method for battle
+2019-05-02 19:08:38.3169 INFO STEP->  attack0: 3 attack1: 1 defend0: 2 defend1: 5
+2019-05-02 19:08:39.1259 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:39.3139 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:39.3139 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:39.3339 INFO Don't select any method for battle
+2019-05-02 19:08:39.3339 INFO STEP->  attack0: 1 attack1: 3 defend0: 4 defend1: 5
+2019-05-02 19:08:40.1179 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:40.3259 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:40.3359 INFO Allow method in batlle: novice_def, hit_strong, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:40.3459 INFO Selected method: hit_strong
+2019-05-02 19:08:40.3459 INFO STEP->  attack0: 2 attack1: 4 defend0: 5 defend1: 3
+2019-05-02 19:08:41.1109 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:41.3549 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:08:41.3649 INFO Allow method in batlle: novice_def, novice_hp, block_activeshield, hp_defence, hp_enrage, hp_regen
+2019-05-02 19:08:41.3649 INFO Don't select any method for battle
+2019-05-02 19:08:41.3849 INFO STEP->  attack0: 2 attack1: 5 defend0: 3 defend1: 4
+2019-05-02 19:08:42.1179 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:08:42.2648 INFO Battle is END
+2019-05-02 19:08:43.1188 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:43.2678 INFO Health not Full 0 from 115
+2019-05-02 19:08:49.2688 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:49.3907 INFO Health not Full 3 from 115
+2019-05-02 19:08:55.2687 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:08:55.3917 INFO Health not Full 5 from 115
+2019-05-02 19:09:01.2676 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:01.3926 INFO Health not Full 7 from 115
+2019-05-02 19:09:07.2785 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:07.3925 INFO Health not Full 9 from 115
+2019-05-02 19:09:13.2794 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:13.4064 INFO Health not Full 12 from 115
+2019-05-02 19:09:19.2723 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:19.3863 INFO Health not Full 14 from 115
+2019-05-02 19:09:25.2673 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:25.3842 INFO Health not Full 16 from 115
+2019-05-02 19:09:31.2672 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:31.4301 INFO Health not Full 19 from 115
+2019-05-02 19:09:37.2671 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:37.3821 INFO Health not Full 21 from 115
+2019-05-02 19:09:43.2670 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:43.3820 INFO Health not Full 23 from 115
+2019-05-02 19:09:49.2669 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:49.3979 INFO Health not Full 26 from 115
+2019-05-02 19:09:55.2718 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:09:55.3878 INFO Health not Full 28 from 115
+2019-05-02 19:10:01.2687 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:01.3957 INFO Health not Full 30 from 115
+2019-05-02 19:10:07.2737 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:07.3886 INFO Health not Full 32 from 115
+2019-05-02 19:10:13.2826 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:13.4076 INFO Health not Full 35 from 115
+2019-05-02 19:10:19.2845 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:19.4065 INFO Health not Full 37 from 115
+2019-05-02 19:10:25.2904 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:25.4114 INFO Health not Full 39 from 115
+2019-05-02 19:10:31.2893 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:31.4143 INFO Health not Full 42 from 115
+2019-05-02 19:10:37.2852 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:37.4092 INFO Health not Full 44 from 115
+2019-05-02 19:10:43.2931 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:43.4121 INFO Health not Full 46 from 115
+2019-05-02 19:10:49.2971 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:49.4241 INFO Health not Full 49 from 115
+2019-05-02 19:10:55.2830 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:10:55.4070 INFO Health not Full 51 from 115
+2019-05-02 19:11:01.2829 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:01.7529 INFO Health not Full 53 from 115
+2019-05-02 19:11:07.2838 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:07.4198 INFO Health not Full 55 from 115
+2019-05-02 19:11:13.2827 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:13.4087 INFO Health not Full 58 from 115
+2019-05-02 19:11:19.2826 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:19.4026 INFO Health not Full 60 from 115
+2019-05-02 19:11:25.2831 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:25.4221 INFO Health not Full 62 from 115
+2019-05-02 19:11:31.2830 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:31.4030 INFO Health not Full 65 from 115
+2019-05-02 19:11:37.2949 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:37.4229 INFO Health not Full 67 from 115
+2019-05-02 19:11:43.2838 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:43.4188 INFO Health not Full 69 from 115
+2019-05-02 19:11:49.2827 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:49.4007 INFO Health not Full 72 from 115
+2019-05-02 19:11:55.2847 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:11:55.4186 INFO Health not Full 74 from 115
+2019-05-02 19:12:01.2856 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:12:01.4066 INFO Health not Full 76 from 115
+2019-05-02 19:12:07.2835 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:12:07.4005 INFO Health not Full 78 from 115
+2019-05-02 19:12:13.2844 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:12:13.4094 INFO Health not Full 81 from 115
+2019-05-02 19:12:19.2863 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:12:19.4163 INFO Health not Full 83 from 115
+2019-05-02 19:12:25.2952 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:12:25.4162 INFO Health not Full 85 from 115
+2019-05-02 19:17:37.9748 INFO Init bot
+2019-05-02 19:17:38.0348 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:17:38.0718 INFO Not authorization. Auth()....
+2019-05-02 19:17:38.8848 INFO Get zayavka...
+2019-05-02 19:17:38.8958 INFO LocationName: [Zayavka] ActionName: [AddZayavka]
+2019-05-02 19:17:39.0398 INFO Заявка на бой подана
+2019-05-02 19:17:45.0487 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:17:45.1707 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:17:51.0527 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:17:51.2046 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:17:57.0486 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:17:57.1696 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:03.0485 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:03.1965 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:09.0534 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:09.1724 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:15.0483 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:15.1803 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:21.0492 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:21.1752 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:27.0482 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:27.1681 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:33.0511 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:33.1661 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:39.0490 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:39.1710 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:45.0499 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:45.1699 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:51.0498 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:51.1638 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:18:57.0487 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:18:57.2017 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:03.0496 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:03.1686 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:09.0485 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:09.1766 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:15.0485 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:15.1735 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:21.0484 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:21.1684 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:27.0493 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:27.1673 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:33.0482 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:33.1612 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:39.0481 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:39.1621 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:45.0500 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:45.1690 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:51.0489 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:51.1690 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:19:57.0489 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:19:57.1879 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:03.0488 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:03.1668 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:09.0507 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:09.1687 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:15.0486 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:15.1696 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:21.0525 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:21.1715 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:27.0484 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:27.1664 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:33.0483 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:33.1784 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:39.0503 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:39.1673 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:45.0492 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:45.1652 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:51.0521 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:51.1691 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:20:57.0530 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:20:57.1770 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:03.0489 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:03.1689 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:09.0498 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:09.1668 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:15.0498 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:15.1657 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:21.0497 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:21.1627 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:27.0496 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:27.1796 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:33.0525 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:33.1755 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:39.0484 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:39.1754 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:45.0493 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:45.1673 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:51.0502 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:51.1622 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:21:57.0482 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:21:57.1612 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:03.0491 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:03.1651 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:09.0490 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:09.1620 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:15.0489 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:15.1769 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:21.0498 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:21.1678 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:27.0527 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:27.1677 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:33.0526 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:33.1696 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:39.0486 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:39.1626 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:45.0505 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:45.1685 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:22:51.0484 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:22:51.1574 INFO Battle start redirect_URL -> http://dreamscity.combats.com/battle6.pl?0.884375967015245
+2019-05-02 19:22:51.1654 INFO Battle url is -> http://dreamscity.combats.com/battle6.pl
+2019-05-02 19:22:57.0523 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:22:57.2763 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:22:57.2883 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:22:57.2883 INFO Don't select any method for battle
+2019-05-02 19:22:57.3073 INFO STEP->  attack0: 1 attack1: 2 defend0: 3 defend1: 5
+2019-05-02 19:22:58.4433 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:22:58.6163 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:22:58.6303 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:22:58.6303 INFO Don't select any method for battle
+2019-05-02 19:22:58.6503 INFO STEP->  attack0: 3 attack1: 1 defend0: 5 defend1: 2
+2019-05-02 19:22:59.4463 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:22:59.6143 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:22:59.6143 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:22:59.6303 INFO Don't select any method for battle
+2019-05-02 19:22:59.6303 INFO STEP->  attack0: 1 attack1: 2 defend0: 5 defend1: 3
+2019-05-02 19:23:00.4402 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:00.6372 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:23:00.6472 INFO Allow method in batlle: novice_def, hit_strong, novice_hp
+2019-05-02 19:23:00.6472 INFO Selected method: hit_strong
+2019-05-02 19:23:00.6682 INFO STEP->  attack0: 4 attack1: 2 defend0: 1 defend1: 5
+2019-05-02 19:23:01.4453 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:01.6342 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:23:01.6442 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:23:01.6442 INFO Don't select any method for battle
+2019-05-02 19:23:01.6602 INFO STEP->  attack0: 5 attack1: 3 defend0: 4 defend1: 2
+2019-05-02 19:23:02.4512 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:02.6232 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:23:02.6312 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:23:02.6422 INFO Don't select any method for battle
+2019-05-02 19:23:02.6422 INFO STEP->  attack0: 1 attack1: 5 defend0: 2 defend1: 4
+2019-05-02 19:23:03.4432 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:03.6292 INFO LocationName: [Battle] ActionName: [Kick]
+2019-05-02 19:23:03.6472 INFO Allow method in batlle: novice_def, novice_hp
+2019-05-02 19:23:03.6592 INFO Don't select any method for battle
+2019-05-02 19:23:03.6592 INFO STEP->  attack0: 3 attack1: 4 defend0: 2 defend1: 1
+2019-05-02 19:23:04.4402 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:05.4392 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:06.4452 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:07.4401 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:08.4441 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:09.4401 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:10.4441 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:11.4391 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:12.4461 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:13.4441 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:14.4500 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:15.4480 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:16.4500 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:17.4520 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:18.4450 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:19.4400 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:20.4390 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:21.4510 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:22.4430 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:23.4489 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:24.4509 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:25.4389 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:26.4499 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:27.4499 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:28.4398 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:29.4429 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:30.4508 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:31.4488 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:32.4398 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:33.4518 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:34.4398 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:35.4438 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:36.4437 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:37.4397 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:38.4507 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:39.4397 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:40.4417 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:41.4507 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:42.4397 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:43.4426 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:44.4446 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:45.4406 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:46.4506 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:47.4496 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:48.4516 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:49.4426 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:50.4445 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:51.4505 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:52.4445 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:53.4395 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:54.4405 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:55.4445 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:56.4514 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:57.4504 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:58.4404 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:59.4494 INFO LocationName: [Battle] ActionName: [Status]
+2019-05-02 19:23:59.6114 INFO Battle is END
+2019-05-02 19:24:00.4494 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:00.5694 INFO Health not Full 0 from 92
+2019-05-02 19:24:06.5643 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:06.6833 INFO Health not Full 2 from 92
+2019-05-02 19:24:12.5642 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:12.6842 INFO Health not Full 4 from 92
+2019-05-02 19:24:18.5641 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:18.6841 INFO Health not Full 6 from 92
+2019-05-02 19:24:24.5640 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:24.7210 INFO Health not Full 7 from 92
+2019-05-02 19:24:30.5640 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:30.6850 INFO Health not Full 9 from 92
+2019-05-02 19:24:36.5649 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:36.6809 INFO Health not Full 11 from 92
+2019-05-02 19:24:42.5728 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:42.7078 INFO Health not Full 13 from 92
+2019-05-02 19:24:48.5737 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:48.6897 INFO Health not Full 15 from 92
+2019-05-02 19:24:54.5646 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:24:54.6876 INFO Health not Full 17 from 92
+2019-05-02 19:25:00.5735 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:00.6935 INFO Health not Full 19 from 92
+2019-05-02 19:25:06.5644 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:06.6795 INFO Health not Full 20 from 92
+2019-05-02 19:25:12.5653 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:12.6824 INFO Health not Full 22 from 92
+2019-05-02 19:25:18.5723 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:18.6863 INFO Health not Full 24 from 92
+2019-05-02 19:25:24.5732 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:24.6892 INFO Health not Full 26 from 92
+2019-05-02 19:25:30.5691 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:30.7241 INFO Health not Full 28 from 92
+2019-05-02 19:25:36.5710 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:36.7060 INFO Health not Full 30 from 92
+2019-05-02 19:25:42.5679 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:42.6889 INFO Health not Full 31 from 92
+2019-05-02 19:25:48.5638 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:48.6838 INFO Health not Full 33 from 92
+2019-05-02 19:25:54.5707 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:25:54.6848 INFO Health not Full 35 from 92
+2019-05-02 19:26:00.5657 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:00.6807 INFO Health not Full 37 from 92
+2019-05-02 19:26:06.5646 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:06.6936 INFO Health not Full 39 from 92
+2019-05-02 19:26:12.5675 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:12.6895 INFO Health not Full 41 from 92
+2019-05-02 19:26:18.5704 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:18.6924 INFO Health not Full 42 from 92
+2019-05-02 19:26:24.5723 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:24.7123 INFO Health not Full 44 from 92
+2019-05-02 19:26:30.5692 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:30.6932 INFO Health not Full 46 from 92
+2019-05-02 19:26:36.5662 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:36.6831 INFO Health not Full 48 from 92
+2019-05-02 19:26:42.5721 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:42.6981 INFO Health not Full 50 from 92
+2019-05-02 19:26:48.5730 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:48.7150 INFO Health not Full 52 from 92
+2019-05-02 19:26:54.5659 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:26:54.7059 INFO Health not Full 53 from 92
+2019-05-02 19:27:00.5638 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:00.6958 INFO Health not Full 55 from 92
+2019-05-02 19:27:06.5747 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:06.6917 INFO Health not Full 57 from 92
+2019-05-02 19:27:12.5646 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:12.7196 INFO Health not Full 59 from 92
+2019-05-02 19:27:18.5746 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:18.7015 INFO Health not Full 61 from 92
+2019-05-02 19:27:24.5755 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:24.7024 INFO Health not Full 63 from 92
+2019-05-02 19:27:30.5714 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:30.7174 INFO Health not Full 65 from 92
+2019-05-02 19:27:36.5743 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:36.7393 INFO Health not Full 66 from 92
+2019-05-02 19:27:42.5742 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:42.7192 INFO Health not Full 68 from 92
+2019-05-02 19:27:48.5641 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:48.6811 INFO Health not Full 70 from 92
+2019-05-02 19:27:54.5770 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:27:54.6930 INFO Health not Full 72 from 92
+2019-05-02 19:28:00.5640 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:00.6799 INFO Health not Full 74 from 92
+2019-05-02 19:28:06.5759 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:06.7218 INFO Health not Full 76 from 92
+2019-05-02 19:28:12.5638 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:12.7058 INFO Health not Full 77 from 92
+2019-05-02 19:28:18.5647 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:18.6817 INFO Health not Full 79 from 92
+2019-05-02 19:28:24.5746 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:24.7066 INFO Health not Full 81 from 92
+2019-05-02 19:28:30.5755 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:30.7085 INFO Health not Full 83 from 92
+2019-05-02 19:28:36.5744 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:36.6914 INFO Health not Full 85 from 92
+2019-05-02 19:28:42.5763 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:42.6913 INFO Health not Full 87 from 92
+2019-05-02 19:28:48.5712 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:48.6852 INFO Health not Full 88 from 92
+2019-05-02 19:28:54.5712 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:28:54.6862 INFO Health not Full 90 from 92
+2019-05-02 19:29:00.5661 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:00.6841 INFO Get zayavka...
+2019-05-02 19:29:00.6921 INFO LocationName: [Zayavka] ActionName: [AddZayavka]
+2019-05-02 19:29:00.8071 INFO Заявка на бой подана
+2019-05-02 19:29:06.5680 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:06.6880 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:12.5639 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:12.6969 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:18.5638 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:18.6968 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:24.5677 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:24.6977 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:30.5687 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:30.6887 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:36.5686 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:36.6835 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:42.5645 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:42.7135 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:48.5674 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:48.6944 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:29:54.5663 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:29:54.6858 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:00.5647 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:00.6977 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:06.5667 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:06.7197 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:12.5655 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:12.7065 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:18.5665 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:18.6815 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:24.5644 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:24.6804 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:30.5673 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:30.7003 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:36.5642 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:36.6932 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:42.5651 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:42.6931 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:48.5640 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:48.6880 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:30:54.5639 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:30:54.6839 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:00.5639 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:00.6819 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:06.5648 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:06.6968 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:12.5657 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:12.6847 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:18.5646 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:18.6966 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:24.5645 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:24.7345 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:30.5674 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:30.6924 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:36.5644 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:36.6913 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:42.5643 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:42.7132 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:48.5652 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:48.6832 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:31:54.5681 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:31:54.6851 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:00.5680 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:00.6830 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:06.5649 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:06.6879 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:12.5658 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:12.6948 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:18.5648 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:18.7137 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:24.5786 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:24.7176 INFO Zayavka already getting. Wait battle...
+2019-05-02 19:32:30.5696 INFO LocationName: [Zayavka] ActionName: [GetMyIdZayavka]
+2019-05-02 19:32:30.6846 INFO Zayavka already getting. Wait battle...

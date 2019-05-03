@@ -20,6 +20,11 @@ namespace Combats.Locations
         private string nBattle { get; set; }
         private string enemy { get; set; }
 
+        /// <summary>
+        /// Приемы для боя
+        /// </summary>
+        private List<Method> Methods { get; set; }
+
         public BattleLocation(Bot person)
         {
             this.Person = person;
@@ -52,9 +57,11 @@ namespace Combats.Locations
                     var defend0 = this.GetSelection(3).ToString();
                     var defend1 = this.GetSelection(4).ToString();
 
+                    var selectedMethod = this.UseMethodForBattle();
+
                     this.Person.Log.Info($"STEP->  attack0: {attack0} attack1: {attack1} defend0: {defend0} defend1: {defend1}");
 
-                    string json = "{ \"log\": 0, \"mycnt\": 1, \"nBattle\": \"" +this.nBattle+"\",  \"iFaceId\": 1555193827304, \"enemy\": \""+this.enemy+"\", \""+this.enemy+ "\": 1, \"attack0\": " + attack0 + ", \"attack1\": " + attack1 + ",\"defend0\": " + defend0 + ", \"version\": \"3.6.8\" }";
+                    string json = "{ \"log\": 0, \"mycnt\": 1, \"nBattle\": \"" +this.nBattle+"\",  \"iFaceId\": 1555193827304, \"enemy\": \""+this.enemy+"\", \""+this.enemy+ "\": 1, \"attack0\": " + attack0 + ", \"attack1\": " + attack1 + ",\"defend0\": " + defend0 + ","+ selectedMethod + " \"version\": \"3.6.8\" }";
 
                     var result = JsonConvert.DeserializeObject(json);
 
@@ -65,8 +72,30 @@ namespace Combats.Locations
 
         }
 
-        private int GetSelection(int index) {
+        /// <summary>
+        /// Возвращает прием для боя
+        /// </summary>
+        /// <returns></returns>
+        private string UseMethodForBattle()
+        {
+            if (this.Methods == null) return String.Empty;
+            var activeMethodList = this.Methods.FindAll(m => m.bEnable == 1).Select(m => m.sID);
+            if (activeMethodList.Any())
+            {
+                this.Person.Log.Info($"Allow method in batlle: {string.Join(", ", activeMethodList.ToArray())}");
+                if (activeMethodList.Contains("hit_strong"))
+                {
+                    this.Person.Log.Info($"Selected method: hit_strong");
+                    return "\"special\": \"hit_strong\",";
+                }
+            }
 
+            this.Person.Log.Info($"Don't select any method for battle");
+            return String.Empty;
+        }
+
+        private int GetSelection(int index)
+        {
             System.Random random = new System.Random();
             var mas = Enumerable.Range(1, 5).OrderBy(n => random.Next()).ToArray();
             return mas[index];
@@ -88,6 +117,8 @@ namespace Combats.Locations
 
             this.nBattle = responseJson.id;
             this.enemy = responseJson.user.Find(u => u.enemy == 1)?.sVirtID;
+            this.Methods = responseJson.methods;
+
 
             if (!String.IsNullOrEmpty(this.nBattle) && !String.IsNullOrEmpty(this.enemy))
             {
@@ -125,9 +156,25 @@ namespace Combats.Locations
         public string location { get; set; }
     }
 
+    public class Method
+    {
+        public object sTargetLogin { get; set; }
+        public string arrResources { get; set; }
+        public string sTarget { get; set; }
+        public int bFreeCast { get; set; }
+        public string sText { get; set; }
+        public int bEnable { get; set; }
+        public int bAuto { get; set; }
+        public string sSrc { get; set; }
+        public string sID { get; set; }
+        public string sDesc { get; set; }
+        public int bSelectTarget { get; set; }
+        public object sMagicType { get; set; }
+    }
+
     public class RootObject
     {
-
+        public List<Method> methods { get; set; }
         public List<User> user { get; set; }
         public string id { get; set; }
         public Gameover gameover { get; set; }
