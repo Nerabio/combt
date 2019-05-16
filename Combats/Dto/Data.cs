@@ -37,6 +37,20 @@ namespace Combats.Dto
 
         public string stop { get; set; }
         public string error { get; set; }
-        
+
+
+        //pet
+        public string p_exprlev { get; set; }
+        public string p_img { get; set; }
+        public string p_power { get; set; }
+        public string p_inst { get; set; }
+        public string p_maxHP { get; set; }
+        public string p_dex { get; set; }
+        public string p_food { get; set; }
+        public string p_expr { get; set; }
+        public string p_level { get; set; }
+        public string p_login { get; set; }
+        public string p_str { get; set; }
+
     }
 }
